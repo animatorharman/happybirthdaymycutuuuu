@@ -4,4 +4,4 @@
 - [x] Build the opening gift interaction and reveal flow
 - [x] Build message, gallery/lightbox, reasons, timeline, age, envelope, and finale sections
 - [x] Add responsive motion, cursor treatment, confetti, and reduced-motion support
-- [ ] Verify metadata, build health, desktop layout, and mobile layout
+- [x] Verify metadata, build health, desktop layout, and mobile layout
